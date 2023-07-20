@@ -1,0 +1,27 @@
+{
+  "name": "mara-usdc-demo",
+  "version": "1.0.0",
+  "description": "mara demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KibokoDao-Africa/mara-usdc-demo.git"
+  },
+  "author": "timothyAgevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KibokoDao-Africa/mara-usdc-demo/issues"
+  },
+  "homepage": "https://github.com/KibokoDao-Africa/mara-usdc-demo#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "ethers": "^5.6.9",
+    "hardhat": "^2.16.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
